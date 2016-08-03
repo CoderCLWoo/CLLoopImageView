@@ -55,7 +55,7 @@
     // 设置标题
     loopView.titles = self.titles;
     
-    // 设置点按手势时间
+    // 设置点按手势事件
     [loopView tapCurrentImageWithHandler:^(NSInteger currentIndex) {
         NSLog(@"点击了第 %zd 张图片", currentIndex);
         
