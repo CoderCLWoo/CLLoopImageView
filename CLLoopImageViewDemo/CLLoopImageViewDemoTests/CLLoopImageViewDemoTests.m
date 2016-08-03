@@ -2,8 +2,9 @@
 //  CLLoopImageViewDemoTests.m
 //  CLLoopImageViewDemoTests
 //
-//  Created by WuChunlong on 16/8/4.
-//  Copyright © 2016年 WuChunlong. All rights reserved.
+//
+//  Created  on 16/6/2.
+//  Copyright © 2016年. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

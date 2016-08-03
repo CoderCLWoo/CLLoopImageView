@@ -1,8 +1,7 @@
 //
-//  
 //
-//  Created by WuChunlong on 16/6/2.
-//  Copyright © 2016年 WuChunlong. All rights reserved.
+//  Created  on 16/6/2.
+//  Copyright © 2016年. All rights reserved.
 //
 
 #import "CLLoopImageView.h"
